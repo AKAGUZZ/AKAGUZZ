@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AKAGUZZ. I'm Mechatronic Engineering Student.
+- 👀 I’m interested in microcontrollers like PICs, Raspberry Pi Pico, ESP32, STM; in Python and C.
+- 📫 How to reach me: ing.angel.reyes00@gmail.com
